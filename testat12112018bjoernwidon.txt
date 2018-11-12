@@ -1,0 +1,22 @@
+/**
+* AUTOR Björn Widon
+**/
+import java.util.Scanner;
+
+public class testat12112018bjoernwidon{
+	
+	public static void main steuer(String [] args){
+		System.out.println("sdjksdjk");
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+	
+	
+	
+}
